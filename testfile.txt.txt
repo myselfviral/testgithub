@@ -1,2 +1,2 @@
 line1 initial
-line2
+line2 new word
